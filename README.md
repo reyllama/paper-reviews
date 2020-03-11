@@ -1,5 +1,3 @@
 # papers
 
-This repository is primarily for making my personal annotations for academic papers.
-
-Some labels representing the gist of each paper shall be added for convenience.
+My review on academic papers on the topic of Machine Learning, Deep Learning and Statistics is posted in [Issues] section.
