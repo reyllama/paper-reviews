@@ -1,7 +1,8 @@
 # papers
 
-Review on academic papers in the field of Machine Learning, Deeplearning and Statistics. <br><br>
-Look at **[Issue]** tab.
+Review on academic papers in the field of Machine Learning, Deeplearning and Statistics in **[Issue]** tab.
+<br><br>
+**Code Implementation** of ideas to be added.
 
 <br>
 <hr/>
