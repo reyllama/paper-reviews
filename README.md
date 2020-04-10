@@ -20,3 +20,5 @@ Review on academic papers in the field of Machine Learning, Deeplearning and Sta
 5. [Show and Tell - A neural Image Caption Generator (2015)](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Vinyals_Show_and_Tell_2015_CVPR_paper.pdf)
 
 6. [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (2016)](https://arxiv.org/pdf/1511.06434.pdf%C3)
+
+7. [Explainable Artificial Intelligence: Understanding, Visualizing and Interpreting Deep Learning Models (2017)](https://arxiv.org/pdf/1708.08296.pdf)
