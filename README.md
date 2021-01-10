@@ -84,3 +84,5 @@ Optimization with Stock Embedding (2019) <br>
 25. Im2Pencil: Controllable Pencil Illustration from Photographs (2019) <br>
 [[pdf]](https://arxiv.org/pdf/1903.08682.pdf)
 
+26. End-to-End Time-Lapse Video Synthesis from a Single Outdoor Image (2019) <br>
+[[pdf]](https://arxiv.org/pdf/1904.00680.pdf)
