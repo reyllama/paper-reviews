@@ -1,6 +1,6 @@
 # Paper Reviews
 
-Review on academic papers in the field of Machine Learning and Statistics in **[Issue]**.
+Review on academic papers in the field of Machine Learning and Statistics in **[Issues]** tab.
 <br><br>
 
 <br>
