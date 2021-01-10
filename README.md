@@ -54,4 +54,33 @@ Optimization with Stock Embedding (2019) <br>
 15. [GPT-2] Language Models are Unsupervised Multitask Learners (2019) <br>
 [[pdf]](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
+16. Implicit Maximum Likelihood Estimation (2018) <br>
+[[pdf]](https://arxiv.org/pdf/1809.09087.pdf)
+
+17. Pose Guided Person Image Generation (2018) <br>
+[[pdf]](https://arxiv.org/pdf/1705.09368.pdf)
+
+18. [ProGAN]Progressive Growing of GANs for Improved Quality, Stability and Variation (2017) <br>
+[[pdf]](https://arxiv.org/pdf/1710.10196.pdf)
+
+19. [AdaIN] Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization (2017) <br>
+[[pdf]](https://arxiv.org/pdf/1703.06868.pdf)
+
+20. Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN (2017) <br>
+[[pdf]](https://arxiv.org/pdf/1706.03319.pdf)
+
+21. Continuous Control with Deep Reinforcement Learning (2015) <br>
+[[pdf]](https://arxiv.org/pdf/1509.02971.pdf)
+
+22. Every Model Learned by Gradient Descent is Apporximately a Kernel Machine (2020) <br>
+[[pdf]](https://arxiv.org/pdf/2012.00152.pdf)
+
+23. Closed-Form Factorization of Latent Semantics in GANs (2020) <br>
+[[pdf]](https://arxiv.org/pdf/2007.06600.pdf)
+
+24. Large Scale GAN Training for High Fidelity Natural Image Synthesis (2018) <br>
+[[pdf]](https://arxiv.org/pdf/1809.11096.pdf)
+
+25. Im2Pencil: Controllable Pencil Illustration from Photographs (2019) <br>
+[[pdf]](https://arxiv.org/pdf/1903.08682.pdf)
 
