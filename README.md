@@ -1,4 +1,4 @@
-# Paper Rwviews
+# Paper Reviews
 
 Review on academic papers in the field of Machine Learning and Statistics in **[Issue]**.
 <br><br>
