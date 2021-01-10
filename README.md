@@ -78,7 +78,7 @@ Optimization with Stock Embedding (2019) <br>
 23. Closed-Form Factorization of Latent Semantics in GANs (2020) <br>
 [[pdf]](https://arxiv.org/pdf/2007.06600.pdf)
 
-24. Large Scale GAN Training for High Fidelity Natural Image Synthesis (2018) <br>
+24. [BigGAN] Large Scale GAN Training for High Fidelity Natural Image Synthesis (2018) <br>
 [[pdf]](https://arxiv.org/pdf/1809.11096.pdf)
 
 25. Im2Pencil: Controllable Pencil Illustration from Photographs (2019) <br>
