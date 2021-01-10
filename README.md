@@ -34,3 +34,11 @@ Review on academic papers in the field of Machine Learning and Statistics in **[
 
 9. CartoonGAN: Generative Adversarial Networks for Photo Cartoonization (2018) <br>
 [[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)
+
+10. Individualized Indicator for All: Stock-wise Technical Indicator
+Optimization with Stock Embedding (2019) <br>
+[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330833)
+
+11. Jukebox: A Generative Model for Music (2020) <br>
+[[pdf]](https://arxiv.org/pdf/2005.00341.pdf)
+
