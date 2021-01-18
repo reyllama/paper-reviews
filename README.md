@@ -87,5 +87,8 @@ Optimization with Stock Embedding (2019) <br>
 26. End-to-End Time-Lapse Video Synthesis from a Single Outdoor Image (2019) <br>
 [[pdf]](https://arxiv.org/pdf/1904.00680.pdf)
 
-27. Improved Precisiona dn Recall Metric for Assessing Generative Models (2019) <br>
+27. Improved Precision and Recall Metric for Assessing Generative Models (2019) <br>
 [[pdf]](https://arxiv.org/pdf/1904.06991.pdf)
+
+28. Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs (2020) <br>
+[[pdf]](https://arxiv.org/pdf/2002.10964.pdf)
