@@ -95,3 +95,6 @@ Optimization with Stock Embedding (2019) <br>
 
 29. Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (2017) <br>
 [[pdf]](https://arxiv.org/pdf/1609.04802.pdf)
+
+30. Sharpness-Aware Minimization for Efficiently Improving Generalization (2020) <br>
+[[pdf]](https://arxiv.org/pdf/2010.01412.pdf)
