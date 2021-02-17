@@ -98,3 +98,6 @@ Optimization with Stock Embedding (2019) <br>
 
 30. Sharpness-Aware Minimization for Efficiently Improving Generalization (2020) <br>
 [[pdf]](https://arxiv.org/pdf/2010.01412.pdf)
+
+31. Differentiable Augmentation for Data-Efficient GAN Training (2020) <br>
+[[pdf]](https://arxiv.org/pdf/2006.10738.pdf)
