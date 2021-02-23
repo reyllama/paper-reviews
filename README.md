@@ -101,3 +101,6 @@ Optimization with Stock Embedding (2019) <br>
 
 31. Differentiable Augmentation for Data-Efficient GAN Training (2020) <br>
 [[pdf]](https://arxiv.org/pdf/2006.10738.pdf)
+
+32. ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness
+[[pdf]](https://arxiv.org/pdf/1811.12231.pdf)
