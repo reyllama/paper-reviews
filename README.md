@@ -108,7 +108,7 @@ Optimization with Stock Embedding (2019) <br>
 33. U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (2020) <br>
 [[pdf]](https://arxiv.org/abs/1907.10830)
 
-34.In-Domain GAN Inversion for Real Image Editing (2020) <br>
+34. In-Domain GAN Inversion for Real Image Editing (2020) <br>
 [[pdf]](https://arxiv.org/abs/2004.00049)
 
 35. Feature Quantization Improves GAN Training (2020) <br>
