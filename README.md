@@ -104,3 +104,21 @@ Optimization with Stock Embedding (2019) <br>
 
 32. ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness (2019) <br>
 [[pdf]](https://arxiv.org/pdf/1811.12231.pdf)
+
+33. U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (2020) <br>
+[[pdf]](https://arxiv.org/abs/1907.10830)
+
+34.In-Domain GAN Inversion for Real Image Editing (2020) <br>
+[[pdf]](https://arxiv.org/abs/2004.00049)
+
+35. Feature Quantization Improves GAN Training (2020) <br>
+[[pdf]](https://arxiv.org/pdf/2004.02088v2.pdf)
+
+36. Improved Techniques for Training GANs (2016) <br>
+[[pdf]](https://arxiv.org/abs/1606.03498)
+
+37. Generating Diverse High-Fidelity Images with VQ-VAE-2 (2019) <br>
+[[pdf]](https://arxiv.org/abs/1906.00446)
+
+38. Wide-Context Semantic Image Extrapolation
+[[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Wide-Context_Semantic_Image_Extrapolation_CVPR_2019_paper.pdf)
