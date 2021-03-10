@@ -120,5 +120,5 @@ Optimization with Stock Embedding (2019) <br>
 37. Generating Diverse High-Fidelity Images with VQ-VAE-2 (2019) <br>
 [[pdf]](https://arxiv.org/abs/1906.00446)
 
-38. Wide-Context Semantic Image Extrapolation <br>
+38. Wide-Context Semantic Image Extrapolation (2019) <br>
 [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Wide-Context_Semantic_Image_Extrapolation_CVPR_2019_paper.pdf)
