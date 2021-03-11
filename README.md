@@ -122,3 +122,6 @@ Optimization with Stock Embedding (2019) <br>
 
 38. Wide-Context Semantic Image Extrapolation (2019) <br>
 [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Wide-Context_Semantic_Image_Extrapolation_CVPR_2019_paper.pdf)
+
+39. Do 2D GANs Know 3D Shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs (2021) <br>
+[[pdf]](https://openreview.net/forum?id=FGqiDsBUKL0)
