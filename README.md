@@ -123,5 +123,47 @@ Optimization with Stock Embedding (2019) <br>
 38. Wide-Context Semantic Image Extrapolation (2019) <br>
 [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Wide-Context_Semantic_Image_Extrapolation_CVPR_2019_paper.pdf)
 
-39. Do 2D GANs Know 3D Shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs (2021) <br>
+39. Do 2D GANs Know 3D Shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs (ICLR 2021) <br>
 [[pdf]](https://openreview.net/forum?id=FGqiDsBUKL0)
+
+40. Swapping Autoencoder for Deep Image Manipulation (NIPS 2020) <br>
+[[pdf]](https://arxiv.org/abs/2007.00653)
+
+41. Training GANs with Stronger Augmentations via Contrastive Discriminator (ICLR 2021) <br>
+[[pdf]](https://openreview.net/forum?id=eo6U4CAwVmg)
+
+42. Using Latent Space Regression to Analyze and Leverage Compositionality in GANs (2021) <br>
+[[pdf]](https://openreview.net/forum?id=sjuuTm4vj0)
+
+43. On Self-supervised Image Representations For GAN Evaluation (ICLR 2021) <br>
+[[pdf]](https://openreview.net/forum?id=NeRdBeTionN)
+
+44. A Good Image Generator is What You Need for High-Resolution Video Synthesis (ICLR 2021) <br>
+[[pdf]](https://openreview.net/forum?id=6puCSjH3hwA)
+
+45. Adversarial Latent Autoencoders (2020) <br>
+[[pdf]](https://arxiv.org/abs/2004.04467)
+
+46. The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks (ICLR 2019) <br>
+[[pdf]](https://arxiv.org/abs/1803.03635)
+
+47. How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks (ICLR 2021) <br>
+[[pdf]](https://openreview.net/forum?id=UH-cmocLJC)
+
+48. Density Estimation Using Real NVP (ICLR 2017) <br>
+[[pdf]](https://openreview.net/forum?id=HkpbnH9lx)
+
+49. Unsupervised Learning of Probably Symmetric Deformable 3D Object from Images in the Wild (CVPR 2020) <br>
+[[pdf]](https://arxiv.org/abs/1911.11130)
+
+50. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (CVPR 2020) <br>
+[[pdf]](https://arxiv.org/abs/2003.08934)
+
+51. Dataset Condensation with Gradient Matching (ICLR 2021) <br>
+[[pdf]](https://openreview.net/forum?id=mSAKhLYLSsl)
+
+52. Momentum Contrast for Unsupervised Visual Representation Learning (CVPR 2020) <br>
+[[pdf]](https://arxiv.org/abs/1911.05722)
+
+53. Interpreting the Latent Space of GANs for Semantic Face Editing (CVPR 2020) <br>
+[[pdf]](https://arxiv.org/abs/1907.10786)
