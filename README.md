@@ -167,3 +167,6 @@ Optimization with Stock Embedding (2019) <br>
 
 53. Interpreting the Latent Space of GANs for Semantic Face Editing (CVPR 2020) <br>
 [[pdf]](https://arxiv.org/abs/1907.10786)
+
+54. Learning Continuous Image Representation with Local Implicit Image Function (CVPR 2021) <br>
+[[pdf]](https://arxiv.org/abs/2012.09161)
