@@ -170,3 +170,6 @@ Optimization with Stock Embedding (2019) <br>
 
 54. Learning Continuous Image Representation with Local Implicit Image Function (CVPR 2021) <br>
 [[pdf]](https://arxiv.org/abs/2012.09161)
+
+55. Bootstrap your own latent: A new approach to self-supervised Learning (NIPS 2020) <br>
+[[pdf]](https://arxiv.org/abs/2006.07733)
