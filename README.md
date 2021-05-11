@@ -173,3 +173,6 @@ Optimization with Stock Embedding (2019) <br>
 
 55. Bootstrap your own latent: A new approach to self-supervised Learning (NIPS 2020) <br>
 [[pdf]](https://arxiv.org/abs/2006.07733)
+
+56. PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models (CVPR 2020) <br>
+[[pdf]](https://arxiv.org/abs/2003.03808)
