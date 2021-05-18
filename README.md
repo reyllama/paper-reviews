@@ -180,3 +180,5 @@ Optimization with Stock Embedding (2019) <br>
 57. Denoising Diffusion Probabilistic Models (NIPS 2020) <br>
 [[pdf]](https://arxiv.org/abs/2006.11239)
 
+58. Analyzing and Improving the Image Quality of StyleGAN (CVPR 2020) <br>
+[[pdf]](https://arxiv.org/abs/1912.04958)
