@@ -11,10 +11,10 @@ Review on academic papers in the field of Machine Learning and Statistics in **[
 1. Learning representation from backpropagating errors (1986) <br>
 [[pdf]](http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf)
 
-2. [cycleGAN] Unpaired Image to Image Translation using cycle-consistent advarsarial net (2017) <br>
+2. Unpaired Image to Image Translation using cycle-consistent advarsarial net (2017) <br>
 [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf)
 
-3. [GAN] Generative Adversarial Nets (2014) <br>
+3. Generative Adversarial Nets (2014) <br>
 [[pdf]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 
 4. Understanding Deep Learning requires rethinking Generalization (2017) <br>
@@ -29,7 +29,7 @@ Review on academic papers in the field of Machine Learning and Statistics in **[
 7. Explainable Artificial Intelligence: Understanding, Visualizing and Interpreting Deep Learning Models (2017) <br>
 [[pdf]](https://arxiv.org/pdf/1708.08296.pdf)
 
-8. [cGAN] Conditional Generative Adversarial Nets (2014) <br>
+8. Conditional Generative Adversarial Nets (2014) <br>
 [[pdf]](https://arxiv.org/pdf/1411.1784.pdf)
 
 9. CartoonGAN: Generative Adversarial Networks for Photo Cartoonization (2018) <br>
@@ -48,10 +48,10 @@ Optimization with Stock Embedding (2019) <br>
 13. Reposing Humans by Warping 3D Features (2020) <br>
 [[pdf]](https://arxiv.org/pdf/2006.04898.pdf)
 
-14. [GPT-1] Improving Language Understanding by Generative Pre-Training (2018) <br>
+14. Improving Language Understanding by Generative Pre-Training (2018) <br>
 [[pdf]](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
-15. [GPT-2] Language Models are Unsupervised Multitask Learners (2019) <br>
+15. Language Models are Unsupervised Multitask Learners (2019) <br>
 [[pdf]](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
 16. Implicit Maximum Likelihood Estimation (2018) <br>
@@ -60,10 +60,10 @@ Optimization with Stock Embedding (2019) <br>
 17. Pose Guided Person Image Generation (2018) <br>
 [[pdf]](https://arxiv.org/pdf/1705.09368.pdf)
 
-18. [ProGAN]Progressive Growing of GANs for Improved Quality, Stability and Variation (2017) <br>
+18. Progressive Growing of GANs for Improved Quality, Stability and Variation (2017) <br>
 [[pdf]](https://arxiv.org/pdf/1710.10196.pdf)
 
-19. [AdaIN] Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization (2017) <br>
+19. Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization (2017) <br>
 [[pdf]](https://arxiv.org/pdf/1703.06868.pdf)
 
 20. Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN (2017) <br>
@@ -78,7 +78,7 @@ Optimization with Stock Embedding (2019) <br>
 23. Closed-Form Factorization of Latent Semantics in GANs (2020) <br>
 [[pdf]](https://arxiv.org/pdf/2007.06600.pdf)
 
-24. [BigGAN] Large Scale GAN Training for High Fidelity Natural Image Synthesis (2018) <br>
+24. Large Scale GAN Training for High Fidelity Natural Image Synthesis (2018) <br>
 [[pdf]](https://arxiv.org/pdf/1809.11096.pdf)
 
 25. Im2Pencil: Controllable Pencil Illustration from Photographs (2019) <br>
@@ -182,3 +182,7 @@ Optimization with Stock Embedding (2019) <br>
 
 58. Analyzing and Improving the Image Quality of StyleGAN (CVPR 2020) <br>
 [[pdf]](https://arxiv.org/abs/1912.04958)
+
+
+59. Are Convolutional Neural Networks or Transformers more like human vision? <br>
+[[pdf]](https://arxiv.org/pdf/2105.07197.pdf)
