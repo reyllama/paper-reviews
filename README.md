@@ -183,6 +183,8 @@ Optimization with Stock Embedding (2019) <br>
 58. Analyzing and Improving the Image Quality of StyleGAN (CVPR 2020) <br>
 [[pdf]](https://arxiv.org/abs/1912.04958)
 
-
-59. Are Convolutional Neural Networks or Transformers more like human vision? <br>
+59. Are Convolutional Neural Networks or Transformers more like human vision? (Arxiv 2021) <br>
 [[pdf]](https://arxiv.org/pdf/2105.07197.pdf)
+
+60. Pay Attention to MLPs (Arxiv 2021) <br>
+[[pdf]](https://arxiv.org/pdf/2105.08050.pdf)
