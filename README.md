@@ -188,3 +188,6 @@ Optimization with Stock Embedding (2019) <br>
 
 60. Pay Attention to MLPs (Arxiv 2021) <br>
 [[pdf]](https://arxiv.org/pdf/2105.08050.pdf)
+
+61. Rethinking and Improving the Robustness of Image Style Transfer (CVPR 2021) <br>
+[[pdf]](https://arxiv.org/abs/2104.05623)
