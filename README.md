@@ -194,3 +194,6 @@ Optimization with Stock Embedding (2019) <br>
 
 62. Style-Aware Normalized Loss for Improving Arbitrary Style Transfer (CVPR 2021) <br>
 [[pdf]](https://arxiv.org/abs/2104.10064)
+
+63. GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields (CVPR 2021 *Best Paper*) <br>
+[[pdf]](https://arxiv.org/abs/2011.12100)
