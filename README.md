@@ -197,3 +197,6 @@ Optimization with Stock Embedding (2019) <br>
 
 63. GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields (CVPR 2021 *Best Paper*) <br>
 [[pdf]](https://arxiv.org/abs/2011.12100)
+
+64. Densely connected multidilated convolutional networks for dense prediction tasks (CVPR 2021) <br>
+[[pdf]](https://arxiv.org/abs/2011.11844)
