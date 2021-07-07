@@ -200,3 +200,6 @@ Optimization with Stock Embedding (2019) <br>
 
 64. Densely connected multidilated convolutional networks for dense prediction tasks (CVPR 2021) <br>
 [[pdf]](https://arxiv.org/abs/2011.11844)
+
+65. ArtFlow: Unbiased Image Style Transfer via Reversible Neural Flows (CVPR 2021) <br>
+[[pdf]](https://arxiv.org/abs/2103.16877)
