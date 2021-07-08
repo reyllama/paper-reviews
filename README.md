@@ -203,3 +203,6 @@ Optimization with Stock Embedding (2019) <br>
 
 65. ArtFlow: Unbiased Image Style Transfer via Reversible Neural Flows (CVPR 2021) <br>
 [[pdf]](https://arxiv.org/abs/2103.16877)
+
+66. Dual Contradistinctive Generative Autoencoder (CVPR 2021) <br>
+[[pdf]](https://arxiv.org/abs/2011.10063)
