@@ -206,3 +206,6 @@ Optimization with Stock Embedding (2019) <br>
 
 66. Dual Contradistinctive Generative Autoencoder (CVPR 2021) <br>
 [[pdf]](https://arxiv.org/abs/2011.10063)
+
+Exponential Moving Average Normalization for Self-supervised and Semi-supervised Learning (CVPR 2021) <br>
+[[pdf]](https://arxiv.org/abs/2101.08482)
