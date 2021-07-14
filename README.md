@@ -212,3 +212,6 @@ Optimization with Stock Embedding (2019) <br>
 
 68. AdCo: Adversarial Contrast for Efficient Learning of Unsupervised Representations from Self-Trained Negative Adversaries (CVPR 2021) <br>
 [[pdf]](https://arxiv.org/abs/2011.08435)
+
+69. Training Networks in Null Space of Feature Covariance for Continual Learning (CVPR 2021) <br>
+[[pdf]](https://arxiv.org/abs/2103.07113)
