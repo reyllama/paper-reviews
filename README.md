@@ -215,3 +215,6 @@ Optimization with Stock Embedding (2019) <br>
 
 69. Training Networks in Null Space of Feature Covariance for Continual Learning (CVPR 2021) <br>
 [[pdf]](https://arxiv.org/abs/2103.07113)
+
+70. NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections (CVPR 2021 Oral) <br>
+[[pdf]](https://arxiv.org/abs/2008.02268)
