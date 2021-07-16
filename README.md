@@ -218,3 +218,6 @@ Optimization with Stock Embedding (2019) <br>
 
 70. NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections (CVPR 2021 Oral) <br>
 [[pdf]](https://arxiv.org/abs/2008.02268)
+
+71. Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains (NIPS 2020 Spotlight) <br>
+[[pdf]](https://arxiv.org/abs/2006.10739)
