@@ -221,3 +221,6 @@ Optimization with Stock Embedding (2019) <br>
 
 71. Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains (NIPS 2020 Spotlight) <br>
 [[pdf]](https://arxiv.org/abs/2006.10739)
+
+72. What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision? (NIPS 2017) <br>
+[[pdf]](https://arxiv.org/abs/1703.04977)
