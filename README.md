@@ -224,3 +224,6 @@ Optimization with Stock Embedding (2019) <br>
 
 72. What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision? (NIPS 2017) <br>
 [[pdf]](https://arxiv.org/abs/1703.04977)
+
+73. GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis (NIPS 2020) <br>
+[[pdf]](https://arxiv.org/abs/2007.02442)
