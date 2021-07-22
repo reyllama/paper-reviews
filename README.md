@@ -227,3 +227,6 @@ Optimization with Stock Embedding (2019) <br>
 
 73. GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis (NIPS 2020) <br>
 [[pdf]](https://arxiv.org/abs/2007.02442)
+
+74. Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations (NIPS 2019) <br>
+[[pdf]](https://arxiv.org/abs/1906.01618)
