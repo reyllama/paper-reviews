@@ -230,3 +230,6 @@ Optimization with Stock Embedding (2019) <br>
 
 74. Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations (NIPS 2019) <br>
 [[pdf]](https://arxiv.org/abs/1906.01618)
+
+75. Neural Volumes: Learning Dynamic Renderable Volumes from Images (ACM SIGGRAPH 2019) <br>
+[[pdf]](https://arxiv.org/abs/1906.07751)
