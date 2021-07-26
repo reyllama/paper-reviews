@@ -233,3 +233,6 @@ Optimization with Stock Embedding (2019) <br>
 
 75. Neural Volumes: Learning Dynamic Renderable Volumes from Images (ACM SIGGRAPH 2019) <br>
 [[pdf]](https://arxiv.org/abs/1906.07751)
+
+76. pixelNeRF: Neural Radiance Fields from One or Few Images (Arxiv 2021) <br>
+[[pdf]](https://arxiv.org/abs/2012.02190)
