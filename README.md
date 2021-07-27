@@ -236,3 +236,6 @@ Optimization with Stock Embedding (2019) <br>
 
 76. pixelNeRF: Neural Radiance Fields from One or Few Images (Arxiv 2021) <br>
 [[pdf]](https://arxiv.org/abs/2012.02190)
+
+77. PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization (ICCV 2019) <br>
+[[pdf]](https://arxiv.org/abs/1905.05172)
