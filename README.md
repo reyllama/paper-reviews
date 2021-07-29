@@ -242,3 +242,6 @@ Optimization with Stock Embedding (2019) <br>
 
 78. pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis (CVPR 2021 Oral) <br>
 [[pdf]](https://arxiv.org/abs/2012.00926)
+
+79. Edge Guided Progressively Generative Image Outpainting (CVPR 2021 Workshop) <br>
+[[pdf]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Lin_Edge_Guided_Progressively_Generative_Image_Outpainting_CVPRW_2021_paper.html)
