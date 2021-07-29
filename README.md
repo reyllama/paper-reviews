@@ -245,3 +245,6 @@ Optimization with Stock Embedding (2019) <br>
 
 79. Edge Guided Progressively Generative Image Outpainting (CVPR 2021 Workshop) <br>
 [[pdf]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Lin_Edge_Guided_Progressively_Generative_Image_Outpainting_CVPRW_2021_paper.html)
+
+80. 3D Shape Generation with Grid-based Implicit Functions (CVPR 2021) <br>
+[[pdf]](https://arxiv.org/abs/2107.10607)
