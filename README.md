@@ -248,3 +248,9 @@ Optimization with Stock Embedding (2019) <br>
 
 80. 3D Shape Generation with Grid-based Implicit Functions (CVPR 2021) <br>
 [[pdf]](https://arxiv.org/abs/2107.10607)
+
+81. Deep Image Prior (CVPR 2018) <br>
+[[pdf]](https://arxiv.org/abs/1711.10925)
+
+82. Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs (ICLR 2021) <br>
+[[pdf]](https://arxiv.org/abs/2003.00152)
