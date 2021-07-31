@@ -254,3 +254,6 @@ Optimization with Stock Embedding (2019) <br>
 
 82. Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs (ICLR 2021) <br>
 [[pdf]](https://arxiv.org/abs/2003.00152)
+
+83. Taming Transformers for High-Resolution Image Synthesis (CVPR 2021 Oral) <br>
+[[pdf]](https://arxiv.org/abs/2012.09841)
