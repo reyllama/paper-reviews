@@ -260,3 +260,6 @@ Optimization with Stock Embedding (2019) <br>
 
 84. Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes (CVPR 2021) <br>
 [[pdf]](https://arxiv.org/abs/2101.10994)
+
+85. Neural Sparse Voxel Fields (NIPS 2020) <br>
+[[pdf]](https://arxiv.org/abs/2007.11571)
