@@ -257,3 +257,6 @@ Optimization with Stock Embedding (2019) <br>
 
 83. Taming Transformers for High-Resolution Image Synthesis (CVPR 2021 Oral) <br>
 [[pdf]](https://arxiv.org/abs/2012.09841)
+
+84. Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes (CVPR 2021) <br>
+[[pdf]](https://arxiv.org/abs/2101.10994)
