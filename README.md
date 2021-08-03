@@ -88,7 +88,7 @@ No | Title | Conference | Year | Link
 76| pixelNeRF: Neural Radiance Fields from One or Few Images | | 2021|[[pdf]](https://arxiv.org/abs/2012.02190)
 77| PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization |ICCV| 2019|[[pdf]](https://arxiv.org/abs/1905.05172)
 78| pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis |CVPR| 2021|[[pdf]](https://arxiv.org/abs/2012.00926)
-79| Edge Guided Progressively Generative Image Outpainting |CVPR Workshop| 2021|[[pdf]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Lin_Edge_Guided_Progressively_Generative_Image_Outpainting_CVPRW_2021_paper.html)
+79| Edge Guided Progressively Generative Image Outpainting |CVPRW| 2021|[[pdf]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Lin_Edge_Guided_Progressively_Generative_Image_Outpainting_CVPRW_2021_paper.html)
 80| 3D Shape Generation with Grid-based Implicit Functions |CVPR| 2021|[[pdf]](https://arxiv.org/abs/2107.10607)
 81| Deep Image Prior |CVPR| 2018|[[pdf]](https://arxiv.org/abs/1711.10925)
 82| Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs |ICLR| 2021| [[pdf]](https://arxiv.org/abs/2003.00152)
