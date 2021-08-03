@@ -263,3 +263,6 @@ Optimization with Stock Embedding (2019) <br>
 
 85. Neural Sparse Voxel Fields (NIPS 2020) <br>
 [[pdf]](https://arxiv.org/abs/2007.11571)
+
+86. Triplet is All You Need with Random Mappings for Unsupervised Visual Representation Learning (Arxiv preprint 2021) <br>
+[[pdf]](https://arxiv.org/abs/2107.10419)
