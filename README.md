@@ -266,3 +266,6 @@ Optimization with Stock Embedding (2019) <br>
 
 86. Triplet is All You Need with Random Mappings for Unsupervised Visual Representation Learning (Arxiv preprint 2021) <br>
 [[pdf]](https://arxiv.org/abs/2107.10419)
+
+87. Few-shot Image Generation via Cross-domain Correspondence (CVPR 2021) <br>
+[[pdf]](https://arxiv.org/abs/2104.06820)
