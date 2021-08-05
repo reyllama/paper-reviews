@@ -98,3 +98,4 @@ No | Title | Conference | Year | Link
 86| Triplet is All You Need with Random Mappings for Unsupervised Visual Representation Learning | |2021|[[pdf]](https://arxiv.org/abs/2107.10419)
 87| Few-shot Image Generation via Cross-domain Correspondence |CVPR| 2021|[[pdf]](https://arxiv.org/abs/2104.06820)
 88| Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space? | ICCV|2019|[[pdf]](https://arxiv.org/abs/1904.03189)
+89| NeX: Real-time View Synthesis with neural Basis Expansion | CVPR | 2021 | [[pdf]](https://arxiv.org/abs/2103.05606)
