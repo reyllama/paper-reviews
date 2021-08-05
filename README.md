@@ -85,7 +85,7 @@ No | Title | Conference | Year | Link
 73| GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis |NIPS| 2020|[[pdf]](https://arxiv.org/abs/2007.02442)
 74| Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations |NIPS| 2019|[[pdf]](https://arxiv.org/abs/1906.01618)
 75| Neural Volumes: Learning Dynamic Renderable Volumes from Images |SIGGRAPH |2019|[[pdf]](https://arxiv.org/abs/1906.07751)
-76| pixelNeRF: Neural Radiance Fields from One or Few Images | | 2021|[[pdf]](https://arxiv.org/abs/2012.02190)
+76| pixelNeRF: Neural Radiance Fields from One or Few Images | CVPR | 2021|[[pdf]](https://arxiv.org/abs/2012.02190)
 77| PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization |ICCV| 2019|[[pdf]](https://arxiv.org/abs/1905.05172)
 78| pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis |CVPR| 2021|[[pdf]](https://arxiv.org/abs/2012.00926)
 79| Edge Guided Progressively Generative Image Outpainting |CVPRW| 2021|[[pdf]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Lin_Edge_Guided_Progressively_Generative_Image_Outpainting_CVPRW_2021_paper.html)
