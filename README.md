@@ -100,3 +100,4 @@ No | Title | Conference | Year | Link
 88| Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space? | ICCV|2019|[[pdf]](https://arxiv.org/abs/1904.03189)
 89| NeX: Real-time View Synthesis with neural Basis Expansion | CVPR | 2021 | [[pdf]](https://arxiv.org/abs/2103.05606)
 90| Few-shot Image Generation with Elastic Weight Consolidation | NIPS | 2020 | [[pdf]](https://arxiv.org/abs/2012.02780)
+91| Towards Unsupervised Learning of Generative Models for 3D Controllable Image Synthesis | CVPR|2020|[[pdf]](https://arxiv.org/abs/1912.05237)
