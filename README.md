@@ -101,3 +101,4 @@ No | Title | Conference | Year | Link
 89| NeX: Real-time View Synthesis with neural Basis Expansion | CVPR | 2021 | [[pdf]](https://arxiv.org/abs/2103.05606)
 90| Few-shot Image Generation with Elastic Weight Consolidation | NIPS | 2020 | [[pdf]](https://arxiv.org/abs/2012.02780)
 91| Towards Unsupervised Learning of Generative Models for 3D Controllable Image Synthesis | CVPR|2020|[[pdf]](https://arxiv.org/abs/1912.05237)
+92| On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes | IMCL | 2021 | [[pdf]](https://arxiv.org/abs/2009.09808)
