@@ -113,3 +113,5 @@ No | Title | Conference | Year | Link
 101| What Matters in Unsupervised Optical Flow |ECCV|2020|[[pdf]](https://arxiv.org/abs/2006.04902)
 102| Occlusion Aware Unsupervised Learning of Optical Flow | CVPR| 2018| [[pdf]](https://arxiv.org/abs/1711.05890)
 103| UnFlow: Unsupervised Learning of Optical Flow with a Bidirectional Census Loss |AAAI|2018|[[pdf]](https://arxiv.org/abs/1711.07837)
+104| DDFlow: Learning Optical Flow with Unlabeled Data Distillation| AAAI|19|[[pdf]](https://arxiv.org/abs/1902.09145)
+105| SelFlow: Self-Supervised Learning of Optical Flow| CVPR|19|[[pdf]](https://arxiv.org/abs/1904.09117)
