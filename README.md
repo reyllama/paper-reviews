@@ -116,3 +116,4 @@ No | Title | Conference | Year | Link
 104| DDFlow: Learning Optical Flow with Unlabeled Data Distillation| AAAI|2019|[[pdf]](https://arxiv.org/abs/1902.09145)
 105| SelFlow: Self-Supervised Learning of Optical Flow| CVPR|2019|[[pdf]](https://arxiv.org/abs/1904.09117)
 106| GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose| CVPR|2018|[[pdf]](https://arxiv.org/abs/1803.02276)
+107| Zero Shot Text to Image Generation | OpenAI | 2021 | [[pdf]](https://arxiv.org/abs/2102.12092)
