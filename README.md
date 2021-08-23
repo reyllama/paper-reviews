@@ -118,3 +118,4 @@ No | Title | Conference | Year | Link
 106| GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose| CVPR|2018|[[pdf]](https://arxiv.org/abs/1803.02276)
 107| Zero Shot Text to Image Generation | OpenAI | 2021 | [[pdf]](https://arxiv.org/abs/2102.12092)
 108| LayoutTransformer: Scene Layout Generation With Conceptual and Spatial Diversity | CVPR| 2021| [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_LayoutTransformer_Scene_Layout_Generation_With_Conceptual_and_Spatial_Diversity_CVPR_2021_paper.html)
+109| StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks | ICCV | 2017 | [[pdf]](https://arxiv.org/abs/1612.03242)
