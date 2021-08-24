@@ -119,3 +119,7 @@ No | Title | Conference | Year | Link
 107| Zero Shot Text to Image Generation | OpenAI | 2021 | [[pdf]](https://arxiv.org/abs/2102.12092)
 108| LayoutTransformer: Scene Layout Generation With Conceptual and Spatial Diversity | CVPR| 2021| [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_LayoutTransformer_Scene_Layout_Generation_With_Conceptual_and_Spatial_Diversity_CVPR_2021_paper.html)
 109| StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks | ICCV | 2017 | [[pdf]](https://arxiv.org/abs/1612.03242)
+110| AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks | CVPR | 2018| [[pdf]](https://arxiv.org/abs/1711.10485)
+111| Image Synthesis From Reconfigurable Layout and Style | ICCV | 2019| [[pdf]](https://arxiv.org/abs/1908.07500)
+112| Image Generation from Scene Graphs | CVPR| 2018| [[pdf]](https://arxiv.org/abs/1804.01622)
+113| Image Generation from Layout | CVPR | 2019| [[pdf]](https://arxiv.org/abs/1811.11389)
