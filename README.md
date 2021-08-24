@@ -122,3 +122,4 @@ No | Title | Conference | Year | Link
 110| AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks | CVPR | 2018| [[pdf]](https://arxiv.org/abs/1711.10485)
 111| Image Synthesis From Reconfigurable Layout and Style | ICCV | 2019| [[pdf]](https://arxiv.org/abs/1908.07500)
 112| Image Generation from Layout | CVPR | 2019| [[pdf]](https://arxiv.org/abs/1811.11389)
+113| Context-aware Layout to Image Generation with Enhanced Object Appearance | CVPR | 2021 | [[pdf]](https://arxiv.org/abs/2103.11897)
