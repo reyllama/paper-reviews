@@ -121,5 +121,4 @@ No | Title | Conference | Year | Link
 109| StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks | ICCV | 2017 | [[pdf]](https://arxiv.org/abs/1612.03242)
 110| AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks | CVPR | 2018| [[pdf]](https://arxiv.org/abs/1711.10485)
 111| Image Synthesis From Reconfigurable Layout and Style | ICCV | 2019| [[pdf]](https://arxiv.org/abs/1908.07500)
-112| Image Generation from Scene Graphs | CVPR| 2018| [[pdf]](https://arxiv.org/abs/1804.01622)
-113| Image Generation from Layout | CVPR | 2019| [[pdf]](https://arxiv.org/abs/1811.11389)
+112| Image Generation from Layout | CVPR | 2019| [[pdf]](https://arxiv.org/abs/1811.11389)
