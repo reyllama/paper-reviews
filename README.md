@@ -126,3 +126,4 @@ No | Title | Conference | Year | Link
 114| Attribute-Guided Image Generation From Layout | BMVC | 2020 | [[pdf]](https://arxiv.org/abs/2008.11932)
 115| Object-Centric Image Generation from Layouts | AAAI | 2021 | [[pdf]](https://arxiv.org/abs/2003.07449)
 116| Learning Layout and Style Reconfigurable GANs for Controllable Image Synthesis | TPAMI | 2021 | [[pdf]](https://arxiv.org/abs/2003.11571)
+117| BachGAN: High-Resolution Image Synthesis from Salient Object Layout | CVPR | 2020 | [[pdf]](https://arxiv.org/abs/2003.11690)
