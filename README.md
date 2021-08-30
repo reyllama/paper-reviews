@@ -128,3 +128,4 @@ No | Title | Venue | Year | Link
 116| Learning Layout and Style Reconfigurable GANs for Controllable Image Synthesis | TPAMI | 2021 | [[pdf]](https://arxiv.org/abs/2003.11571)
 117| BachGAN: High-Resolution Image Synthesis from Salient Object Layout | CVPR | 2020 | [[pdf]](https://arxiv.org/abs/2003.11690)
 118| Region-aware Adaptive Instance Normalization for Image Harmonization | CVPR| 2021| [[pdf]](https://arxiv.org/abs/2106.02853)
+119| StEP: Style-based Encoder Pre-training for Multi-modal Image Synthesis |CVPR|2021|[[pdf]](https://arxiv.org/abs/2104.07098)
