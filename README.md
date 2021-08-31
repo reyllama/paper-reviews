@@ -1,7 +1,7 @@
 # Paper Reviews
 
 Machine Learning paper reviews. <br>
-See **[ISSUE]** tab.
+See **[Issues]** tab.
 <br><br>
 
 <br>
