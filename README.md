@@ -129,3 +129,4 @@ No | Title | Venue | Year | Link
 117| BachGAN: High-Resolution Image Synthesis from Salient Object Layout | CVPR | 2020 | [[pdf]](https://arxiv.org/abs/2003.11690)
 118| Region-aware Adaptive Instance Normalization for Image Harmonization | CVPR| 2021| [[pdf]](https://arxiv.org/abs/2106.02853)
 119| StEP: Style-based Encoder Pre-training for Multi-modal Image Synthesis |CVPR|2021|[[pdf]](https://arxiv.org/abs/2104.07098)
+120| Optimizing the Latent Space of Generative Networks | ICML | 2018| [[pdf]](https://arxiv.org/abs/1707.05776)
