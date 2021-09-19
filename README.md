@@ -132,3 +132,5 @@ No | Title | Venue | Year | Link
 119| StEP: Style-based Encoder Pre-training for Multi-modal Image Synthesis |CVPR|2021|[[pdf]](https://arxiv.org/abs/2104.07098)
 120| Optimizing the Latent Space of Generative Networks | ICML | 2018| [[pdf]](https://arxiv.org/abs/1707.05776)
 121| StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation | CVPR|2021|[[pdf]](https://arxiv.org/abs/2011.12799)
+122| Autoencoder Image Interpolation by Shaping the Latent Space | ICML| 2021| [[pdf]](https://arxiv.org/abs/2008.01487)
+123| Autoencoding Under Normalization Constraints | ICML|2021|[[pdf]](https://arxiv.org/abs/2105.05735)
