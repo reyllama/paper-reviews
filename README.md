@@ -137,3 +137,4 @@ No | Title | Venue | Year | Link
 124| Cross-Modal Contrastive Contrastive Learning for Text-to-Image Generation | CVPR | 2021| [[pdf]](https://arxiv.org/abs/2101.04702)
 125| Action-Conditioned 3D Human Motion Synthesis with Transformer VAE | ICCV | 2021 | [[pdf]](https://arxiv.org/abs/2104.05670)
 126| Every Pixel Matters: Center-aware Feature Alignment for Domain Adaptive Object Detector | ECCV | 2020 | [[pdf]](https://arxiv.org/abs/2008.08574)
+127| A Unified 3D Human Motion Synthesis Model via Conditional Variational Auto-Encoder | ICCV | 2021 | [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/html/Cai_A_Unified_3D_Human_Motion_Synthesis_Model_via_Conditional_Variational_ICCV_2021_paper.html)
