@@ -134,3 +134,6 @@ No | Title | Venue | Year | Link
 121| StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation | CVPR|2021|[[pdf]](https://arxiv.org/abs/2011.12799)
 122| Autoencoder Image Interpolation by Shaping the Latent Space | ICML| 2021| [[pdf]](https://arxiv.org/abs/2008.01487)
 123| Autoencoding Under Normalization Constraints | ICML|2021|[[pdf]](https://arxiv.org/abs/2105.05735)
+124| Cross-Modal Contrastive Contrastive Learning for Text-to-Image Generation | CVPR | 2021| [[pdf]](https://arxiv.org/abs/2101.04702)
+125| Action-Conditioned 3D Human Motion Synthesis with Transformer VAE | ICCV | 2021 | [[pdf]](https://arxiv.org/abs/2104.05670)
+126| Every Pixel Matters: Center-aware Feature Alignment for Domain Adaptive Object Detector | ECCV | 2020 | [[pdf]](https://arxiv.org/abs/2008.08574)
