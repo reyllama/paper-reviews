@@ -140,3 +140,4 @@ No | Title | Venue | Year | Link
 127| A Unified 3D Human Motion Synthesis Model via Conditional Variational Auto-Encoder | ICCV | 2021 | [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/html/Cai_A_Unified_3D_Human_Motion_Synthesis_Model_via_Conditional_Variational_ICCV_2021_paper.html)
 128| NUWA: Visual Synthesis Pre-training for Neural visUal World creAtion | - | - | [[pdf]](https://arxiv.org/abs/2111.12417)
 129| Pix2seq: A Language Modeling Framework for Object Detection | - | - | [[pdf]](https://arxiv.org/abs/2109.10852v1?fbclid=IwAR0CajL1KGR4ZxzRkeWMLVmmOi4hd4nADzfcuIW6Z0sfX4j_sB76fK0QKmY)
+130| Masked Autoencoders Are Scalable Vision Learners | - | 2021 | [[pdf]](https://arxiv.org/abs/2111.06377?fbclid=IwAR3FWM2Rqt0mSCLYS0hlbJ31TN0wxVW5PqipT0MjOq9bLdnA6st9kuZYUK8)
