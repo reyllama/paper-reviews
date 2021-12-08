@@ -143,3 +143,4 @@ No | Title | Venue | Year | Link
 130| Masked Autoencoders Are Scalable Vision Learners | - | 2021 | [[pdf]](https://arxiv.org/abs/2111.06377?fbclid=IwAR3FWM2Rqt0mSCLYS0hlbJ31TN0wxVW5PqipT0MjOq9bLdnA6st9kuZYUK8)
 131| Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision | EMNLP | 2020 | [[pdf]](https://arxiv.org/abs/2010.06775)
 132| Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks | NIPS | 2020| [[pdf]](https://arxiv.org/abs/2005.11401)
+133| VidLanKD: Improving Language Understanding via Video-Distilled Knowledge Transfer | NIPS | 2021 | [[pdf]](https://arxiv.org/abs/2107.02681?fbclid=IwAR1sY7fpOwdCgCAAP1nN9rqzrUegbp2icJi2QF9U5NrodoyWfNhvkzvNid4)
