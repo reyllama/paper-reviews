@@ -142,3 +142,4 @@ No | Title | Venue | Year | Link
 129| Pix2seq: A Language Modeling Framework for Object Detection | - | - | [[pdf]](https://arxiv.org/abs/2109.10852v1?fbclid=IwAR0CajL1KGR4ZxzRkeWMLVmmOi4hd4nADzfcuIW6Z0sfX4j_sB76fK0QKmY)
 130| Masked Autoencoders Are Scalable Vision Learners | - | 2021 | [[pdf]](https://arxiv.org/abs/2111.06377?fbclid=IwAR3FWM2Rqt0mSCLYS0hlbJ31TN0wxVW5PqipT0MjOq9bLdnA6st9kuZYUK8)
 131| Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision | EMNLP | 2020 | [[pdf]](https://arxiv.org/abs/2010.06775)
+132| Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks | NIPS | 2020| [[pdf]](https://arxiv.org/abs/2005.11401)
