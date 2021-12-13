@@ -145,4 +145,4 @@ No | Title | Venue | Year | Link
 132| Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks | NIPS | 2020| [[pdf]](https://arxiv.org/abs/2005.11401)
 133| VidLanKD: Improving Language Understanding via Video-Distilled Knowledge Transfer | NIPS | 2021 | [[pdf]](https://arxiv.org/abs/2107.02681?fbclid=IwAR1sY7fpOwdCgCAAP1nN9rqzrUegbp2icJi2QF9U5NrodoyWfNhvkzvNid4)
 134| You Only Learn One Representation: Unified Network for Multiple Tasks | - | - | [[pdf]](https://arxiv.org/abs/2105.04206?fbclid=IwAR3k0Zpr2JBhB1HM9jG5vdhcn4c_4cuLHPh8SB8lP40pGolKG2Gw-6EQggc)
-135| STYLENERF: A STYLE-BASED 3D-AWARE GENERATOR FOR HIGH-RESOLUTION IMAGE SYNTHESIS | ICLR | 2022 | [[pdf]](https://arxiv.org/abs/2110.08985)
+135| StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis | ICLR | 2022 | [[pdf]](https://arxiv.org/abs/2110.08985)
