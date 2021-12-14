@@ -147,3 +147,4 @@ No | Title | Venue | Year | Link
 134| You Only Learn One Representation: Unified Network for Multiple Tasks | - | - | [[pdf]](https://arxiv.org/abs/2105.04206?fbclid=IwAR3k0Zpr2JBhB1HM9jG5vdhcn4c_4cuLHPh8SB8lP40pGolKG2Gw-6EQggc)
 135| StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis | ICLR | 2022 | [[pdf]](https://arxiv.org/abs/2110.08985)
 136| Co2L: Contrastive Continual Learning | ICCV | 2021 | [[pdf]](https://arxiv.org/abs/2106.14413)
+137| Adversarial Generation of Continuous Images | CVPR | 2021 | [[pdf]](https://arxiv.org/abs/2011.12026)
