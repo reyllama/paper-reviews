@@ -152,4 +152,4 @@ No | Title | Venue | Year | Link
 139| Rehearsal revealed: The limits and merits of revisiting samples in continual learning | ICCV | 2021 | [[pdf]](https://arxiv.org/abs/2104.07446)
 140| GDumb: A Simple Approach that Questions Our Progress in Continual Learning | ECCV | 2020 | [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470511.pdf)
 141| GAN Memory with No Forgetting | NIPS | 2020 | [[pdf]](https://arxiv.org/abs/2006.07543)
-142| Few-Shot and Continual Learning With Attentive Independent Mechanisms | ICCV | 2021 | [[pdf]](Few-Shot and Continual Learning With Attentive Independent Mechanisms)
+142| Few-Shot and Continual Learning With Attentive Independent Mechanisms | ICCV | 2021 | [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Lee_Few-Shot_and_Continual_Learning_With_Attentive_Independent_Mechanisms_ICCV_2021_paper.pdf)
