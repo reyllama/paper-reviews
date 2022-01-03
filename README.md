@@ -155,3 +155,4 @@ No | Title | Venue | Year | Link
 142| Few-Shot and Continual Learning With Attentive Independent Mechanisms | ICCV | 2021 | [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Lee_Few-Shot_and_Continual_Learning_With_Attentive_Independent_Mechanisms_ICCV_2021_paper.pdf)
 143| Self-Supervised GANs with Label Augmentation | NIPS | 2021 | [[pdf]](https://arxiv.org/abs/2106.08601)
 144| Overcoming Catastrophic Forgetting in Incremental Few-Shot Learning by Finding Flat Minima | NIPS | 2021 | [[pdf]](https://arxiv.org/abs/2111.01549)
+145| On Memorization in Probabilistic Deep Generative Models | NIPS | 2021 | [[pdf]](https://arxiv.org/abs/2106.03216)
