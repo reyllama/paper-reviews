@@ -1,6 +1,6 @@
 # Paper Reviews
 
-Machine Learning paper reviews for personal arxiving purpose. <br>
+Machine Learning paper reviews for personal archiving purpose. <br>
 Refer to **[Issues]** tab.
 <br><br>
 
