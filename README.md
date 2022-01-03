@@ -1,7 +1,7 @@
 # Paper Reviews
 
-Machine Learning paper reviews. <br>
-See **[Issues]** tab.
+Machine Learning paper reviews for personal arxiving purpose. <br>
+Refer to **[Issues]** tab.
 <br><br>
 
 <br>
