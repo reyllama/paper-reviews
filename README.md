@@ -158,3 +158,4 @@ No | Title | Venue | Year | Link
 145| On Memorization in Probabilistic Deep Generative Models | NIPS | 2021 | [[pdf]](https://arxiv.org/abs/2106.03216)
 146| Low-Rank Subspaces in GANs | NIPS | 2021 | [[pdf]](https://arxiv.org/abs/2106.04488)
 147| Multimodal Few-Shot Learning with Frozen Language Models | NIPS | 2021 | [[pdf]](https://arxiv.org/abs/2106.13884)
+148| Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation | NIPS | 2021 | [[pdf]](https://arxiv.org/abs/2008.00951)
