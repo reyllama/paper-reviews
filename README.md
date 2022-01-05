@@ -157,3 +157,4 @@ No | Title | Venue | Year | Link
 144| Overcoming Catastrophic Forgetting in Incremental Few-Shot Learning by Finding Flat Minima | NIPS | 2021 | [[pdf]](https://arxiv.org/abs/2111.01549)
 145| On Memorization in Probabilistic Deep Generative Models | NIPS | 2021 | [[pdf]](https://arxiv.org/abs/2106.03216)
 146| Low-Rank Subspaces in GANs | NIPS | 2021 | [[pdf]](https://arxiv.org/abs/2106.04488)
+147| Multimodal Few-Shot Learning with Frozen Language Models | NIPS | 2021 | [[pdf]](https://arxiv.org/abs/2106.13884)
