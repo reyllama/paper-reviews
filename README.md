@@ -159,3 +159,4 @@ No | Title | Venue | Year | Link
 146| Low-Rank Subspaces in GANs | NIPS | 2021 | [[pdf]](https://arxiv.org/abs/2106.04488)
 147| Multimodal Few-Shot Learning with Frozen Language Models | NIPS | 2021 | [[pdf]](https://arxiv.org/abs/2106.13884)
 148| Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation | NIPS | 2021 | [[pdf]](https://arxiv.org/abs/2008.00951)
+149| Do Vision Transformers See Like Convolutional Neural Networks? | - | 2021 | [[pdf]](https://arxiv.org/abs/2108.08810)
