@@ -161,3 +161,4 @@ No | Title | Venue | Year | Link
 148| Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation | NIPS | 2021 | [[pdf]](https://arxiv.org/abs/2008.00951)
 149| Do Vision Transformers See Like Convolutional Neural Networks? | NIPS | 2021 | [[pdf]](https://arxiv.org/abs/2108.08810)
 150| Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks | ICLR | 2022 | [[pdf]](https://openreview.net/forum?id=Czsdv-S4-w9)
+151| On the Measure of Intelligence | - | 2019 | [[pdf]](https://arxiv.org/abs/1911.01547)
