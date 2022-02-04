@@ -163,3 +163,4 @@ No | Title | Venue | Year | Link
 150| Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks | ICLR | 2022 | [[pdf]](https://openreview.net/forum?id=Czsdv-S4-w9)
 151| On the Measure of Intelligence | - | 2019 | [[pdf]](https://arxiv.org/abs/1911.01547)
 152| Collapse by Conditioning: Training Class-conditional GANs with Limited Data | ICLR | 2022 | [[pdf]](https://openreview.net/forum?id=7TZeCsNOUB_)
+153| Regularizing Generative Adversarial Networks under Limited Data | CVPR | 2021 | [[pdf]](https://arxiv.org/abs/2104.03310)
