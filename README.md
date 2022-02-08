@@ -164,3 +164,8 @@ No | Title | Venue | Year | Link
 151| On the Measure of Intelligence | - | 2019 | [[pdf]](https://arxiv.org/abs/1911.01547)
 152| Collapse by Conditioning: Training Class-conditional GANs with Limited Data | ICLR | 2022 | [[pdf]](https://openreview.net/forum?id=7TZeCsNOUB_)
 153| Regularizing Generative Adversarial Networks under Limited Data | CVPR | 2021 | [[pdf]](https://arxiv.org/abs/2104.03310)
+154| Denoising Diffusion Probabilistic Models | NIPS | 2020 | [[pdf]](https://arxiv.org/abs/2006.11239)
+155| Improved Denoising Diffusion Probabilistic Models | ICML | 2021 | [[pdf]](https://arxiv.org/abs/2102.09672)
+156| Denoising Diffusion Implicit Models | ICLR | 2021 | [[pdf]](https://arxiv.org/abs/2010.02502)
+157| TRGP: Trust Region Gradient Projection for Continual Learning | ICLR | 2022 | [[pdf]](https://openreview.net/forum?id=iEvAf8i6JjO)
+158| Rethinking the Representational Continuity: Towards Unsupervised Continual Learning | ICLR | 2022 | [[pdf]](https://openreview.net/forum?id=9Hrka5PA7LW)
