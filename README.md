@@ -169,3 +169,6 @@ No | Title | Venue | Year | Link
 156| Denoising Diffusion Implicit Models | ICLR | 2021 | [[pdf]](https://arxiv.org/abs/2010.02502)
 157| TRGP: Trust Region Gradient Projection for Continual Learning | ICLR | 2022 | [[pdf]](https://openreview.net/forum?id=iEvAf8i6JjO)
 158| Rethinking the Representational Continuity: Towards Unsupervised Continual Learning | ICLR | 2022 | [[pdf]](https://openreview.net/forum?id=9Hrka5PA7LW)
+159| Diffusion Models Beat GANs on Image Synthesis | NIPS | 2021 | [[pdf]](https://arxiv.org/abs/2105.05233)
+160| Classifier-free Diffusion Guidance | NIPS workshop | 2021 | [[pdf]](https://openreview.net/forum?id=qw8AKxfYbI)
+161| GLIDE: Towards Photorealistic Image Generation and Editing with Text-guided Diffusion Models | - | 2021 | [[pdf]](https://arxiv.org/abs/2112.10741)
