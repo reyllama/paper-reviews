@@ -172,3 +172,6 @@ No | Title | Venue | Year | Link
 159| Diffusion Models Beat GANs on Image Synthesis | NIPS | 2021 | [[pdf]](https://arxiv.org/abs/2105.05233)
 160| Classifier-free Diffusion Guidance | NIPS-W | 2021 | [[pdf]](https://openreview.net/forum?id=qw8AKxfYbI)
 161| GLIDE: Towards Photorealistic Image Generation and Editing with Text-guided Diffusion Models | - | 2021 | [[pdf]](https://arxiv.org/abs/2112.10741)
+162| VITON: An Image-based Virtual Try-on Network | CVPR | 2018 | [[pdf]](https://arxiv.org/abs/1711.08447)
+163| Toward Characteristic-Preserving Image-based Virtual Try-On Network | ECCV | 2018 | [[pdf]](https://arxiv.org/abs/1807.07688)
+164| VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization | CVPR | 2021 | [[pdf]](https://arxiv.org/abs/2103.16874)
