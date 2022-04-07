@@ -177,3 +177,5 @@ No | Title | Venue | Year | Link
 164| VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization | CVPR | 2021 | [[pdf]](https://arxiv.org/abs/2103.16874)
 165| SharpContour: A Contour-based Boundary Refinement Approach for Efficient and Accurate Instance Segmentation | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2203.13312)
 166| Deblur-NeRF: Neural Radiance Fields from Blurry Images | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2111.14292)
+167| Fashion Attribute-to-Image Synthesis Using Attention-based Generative Adversarial Network | WACV | 2019 | [[pdf]](https://www.computer.org/csdl/proceedings-article/wacv/2019/197500a462/18j8H6pon3q)
+168| Attribute Manipulaiton Generative Adversarial Networks for Fashion Images | ICCV | 2019 | [[pdf]](https://ieeexplore.ieee.org/document/9008395)
