@@ -179,3 +179,4 @@ No | Title | Venue | Year | Link
 166| Deblur-NeRF: Neural Radiance Fields from Blurry Images | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2111.14292)
 167| Fashion Attribute-to-Image Synthesis Using Attention-based Generative Adversarial Network | WACV | 2019 | [[pdf]](https://www.computer.org/csdl/proceedings-article/wacv/2019/197500a462/18j8H6pon3q)
 168| Attribute Manipulaiton Generative Adversarial Networks for Fashion Images | ICCV | 2019 | [[pdf]](https://ieeexplore.ieee.org/document/9008395)
+169| FlexIT: Towards Flexible Semantic Image Translation | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2203.04705)
