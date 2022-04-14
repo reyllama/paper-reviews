@@ -180,3 +180,4 @@ No | Title | Venue | Year | Link
 167| Fashion Attribute-to-Image Synthesis Using Attention-based Generative Adversarial Network | WACV | 2019 | [[pdf]](https://www.computer.org/csdl/proceedings-article/wacv/2019/197500a462/18j8H6pon3q)
 168| Attribute Manipulaiton Generative Adversarial Networks for Fashion Images | ICCV | 2019 | [[pdf]](https://ieeexplore.ieee.org/document/9008395)
 169| FlexIT: Towards Flexible Semantic Image Translation | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2203.04705)
+170| Point-NeRF: Point-based Neural Radiance Fields | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2201.08845)
