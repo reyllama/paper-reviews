@@ -181,3 +181,5 @@ No | Title | Venue | Year | Link
 168| Attribute Manipulaiton Generative Adversarial Networks for Fashion Images | ICCV | 2019 | [[pdf]](https://ieeexplore.ieee.org/document/9008395)
 169| FlexIT: Towards Flexible Semantic Image Translation | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2203.04705)
 170| Point-NeRF: Point-based Neural Radiance Fields | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2201.08845)
+171| CLIP-Event: Connecting Text and Images with Event Structures | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2201.05078)
+172| InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2112.15399)
