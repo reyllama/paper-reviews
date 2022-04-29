@@ -185,3 +185,4 @@ No | Title | Venue | Year | Link
 172| InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2112.15399)
 173| StyleT2I: Toward Compositional and High-Fidelity Text-to-Image Synthesis | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2203.15799)
 174| CAM-GAN: Continual Adaptation Modules for Generative Adversarial Networks | NIPS | 2021 | [[pdf]](https://arxiv.org/abs/2103.04032)
+175| Blended Diffusion for Text-driven Editing of Natural Images | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2111.14818)
