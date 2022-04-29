@@ -183,3 +183,5 @@ No | Title | Venue | Year | Link
 170| Point-NeRF: Point-based Neural Radiance Fields | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2201.08845)
 171| CLIP-Event: Connecting Text and Images with Event Structures | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2201.05078)
 172| InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2112.15399)
+173| StyleT2I: Toward Compositional and High-Fidelity Text-to-Image Synthesis | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2203.15799)
+174| CAM-GAN: Continual Adaptation Modules for Generative Adversarial Networks | NIPS | 2021 | [[pdf]](https://arxiv.org/abs/2103.04032)
