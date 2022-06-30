@@ -186,3 +186,4 @@ No | Title | Venue | Year | Link
 173| StyleT2I: Toward Compositional and High-Fidelity Text-to-Image Synthesis | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2203.15799)
 174| CAM-GAN: Continual Adaptation Modules for Generative Adversarial Networks | NIPS | 2021 | [[pdf]](https://arxiv.org/abs/2103.04032)
 175| Blended Diffusion for Text-driven Editing of Natural Images | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2111.14818)
+176| Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts | - | 2022 | [[pdf]](https://arxiv.org/abs/2206.02770)
