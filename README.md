@@ -187,3 +187,6 @@ No | Title | Venue | Year | Link
 174| CAM-GAN: Continual Adaptation Modules for Generative Adversarial Networks | NIPS | 2021 | [[pdf]](https://arxiv.org/abs/2103.04032)
 175| Blended Diffusion for Text-driven Editing of Natural Images | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2111.14818)
 176| Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts | - | 2022 | [[pdf]](https://arxiv.org/abs/2206.02770)
+177| BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2201.12086)
+178| Vision-Language Pre-Training with Triple Contrastive Learning | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2202.10401)
+179| Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks | - | 2022 | [[pdf]](https://arxiv.org/abs/2206.08916)
