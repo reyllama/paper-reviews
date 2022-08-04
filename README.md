@@ -190,3 +190,4 @@ No | Title | Venue | Year | Link
 177| BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2201.12086)
 178| Vision-Language Pre-Training with Triple Contrastive Learning | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2202.10401)
 179| Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks | - | 2022 | [[pdf]](https://arxiv.org/abs/2206.08916)
+180| Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding | - | 2022 | [[pdf]](https://arxiv.org/abs/2205.11487)
