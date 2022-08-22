@@ -191,3 +191,5 @@ No | Title | Venue | Year | Link
 178| Vision-Language Pre-Training with Triple Contrastive Learning | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2202.10401)
 179| Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks | - | 2022 | [[pdf]](https://arxiv.org/abs/2206.08916)
 180| Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding | - | 2022 | [[pdf]](https://arxiv.org/abs/2205.11487)
+181| Prompt-to-Prompt Image Editing with Cross Attention Control | - | 2022 | [[pdf]](https://arxiv.org/abs/2208.01626)
+182| An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion | - | 2022 | [[pdf]](https://arxiv.org/abs/2208.01618)
