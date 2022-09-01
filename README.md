@@ -193,3 +193,4 @@ No | Title | Venue | Year | Link
 180| Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding | - | 2022 | [[pdf]](https://arxiv.org/abs/2205.11487)
 181| Prompt-to-Prompt Image Editing with Cross Attention Control | - | 2022 | [[pdf]](https://arxiv.org/abs/2208.01626)
 182| An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion | - | 2022 | [[pdf]](https://arxiv.org/abs/2208.01618)
+183| Video Diffusion Models | - | 2022 | [[pdf]](https://arxiv.org/abs/2204.03458)
