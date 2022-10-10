@@ -196,3 +196,4 @@ No | Title | Venue | Year | Link
 183| Video Diffusion Models | - | 2022 | [[pdf]](https://arxiv.org/abs/2204.03458)
 184| Diffusion Probabilistic Modeling for Video Generation | - | 2022 | [[pdf]](https://arxiv.org/abs/2203.09481)
 185| High-resolution Image Synthesis with Latent Diffusion Models | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2112.10752)
+186| Visual Prompting via Image Inpainting | NeurIPS | 2022 | [[pdf]](http://arxiv.org/abs/2209.00647)
