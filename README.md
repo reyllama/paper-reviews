@@ -201,5 +201,5 @@ No | Title | Venue | Year | Link
 188| Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance | - | 2022 | [[pdf]](https://arxiv.org/abs/2210.05559)
 189| eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers | - | 2022 | [[pdf]](https://arxiv.org/abs/2211.01324)
 190| Any-resolution Training for High-resolution Image Synthesis | ECCV | 2022 | [[pdf]](https://arxiv.org/abs/2204.07156)
-191| Variational Diffusion Models | NeuRIPS | 2021 | [[pdf]](https://arxiv.org/abs/2107.00630)
+191| Variational Diffusion Models | NeurIPS | 2021 | [[pdf]](https://arxiv.org/abs/2107.00630)
 192| Elucidating the Design Space of Diffusion-Based Generative Models | NeurIPS | 2022 | [[pdf]](https://arxiv.org/abs/2206.00364)
