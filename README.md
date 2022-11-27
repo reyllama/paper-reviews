@@ -204,3 +204,4 @@ No | Title | Venue | Year | Link
 191| Variational Diffusion Models | NeurIPS | 2021 | [[pdf]](https://arxiv.org/abs/2107.00630)
 192| Elucidating the Design Space of Diffusion-Based Generative Models | NeurIPS | 2022 | [[pdf]](https://arxiv.org/abs/2206.00364)
 193| Visual Prompt Tuning for Generative Transfer Learning | - | 2022 | [[pdf]](https://arxiv.org/abs/2210.00990)
+194| The Euclidean Space is Evil: Hyperbolic Attribute Editing for Few-shot Image Generation| - | 2022 | [[pdf]](https://arxiv.org/abs/2211.12347)
