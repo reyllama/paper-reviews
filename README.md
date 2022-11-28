@@ -205,3 +205,4 @@ No | Title | Venue | Year | Link
 192| Elucidating the Design Space of Diffusion-Based Generative Models | NeurIPS | 2022 | [[pdf]](https://arxiv.org/abs/2206.00364)
 193| Visual Prompt Tuning for Generative Transfer Learning | - | 2022 | [[pdf]](https://arxiv.org/abs/2210.00990)
 194| The Euclidean Space is Evil: Hyperbolic Attribute Editing for Few-shot Image Generation| - | 2022 | [[pdf]](https://arxiv.org/abs/2211.12347)
+195| Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners | NeurIPS | 2022 [[pdf]](https://arxiv.org/abs/2205.10747)
