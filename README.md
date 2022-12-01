@@ -206,4 +206,4 @@ No | Title | Venue | Year | Link
 193| Visual Prompt Tuning for Generative Transfer Learning | - | 2022 | [[pdf]](https://arxiv.org/abs/2210.00990)
 194| The Euclidean Space is Evil: Hyperbolic Attribute Editing for Few-shot Image Generation| - | 2022 | [[pdf]](https://arxiv.org/abs/2211.12347)
 195| Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners | NeurIPS | 2022 [[pdf]](https://arxiv.org/abs/2205.10747)
-196| DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION | ICLR | 2023 | [[pdf]](https://arxiv.org/abs/2209.14988)
+196| DreamFusion: Text-oo-3D Using 2D Diffusion | ICLR | 2023 | [[pdf]](https://arxiv.org/abs/2209.14988)
