@@ -208,3 +208,4 @@ No | Title | Venue | Year | Link
 195| Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners | NeurIPS | 2022 | [[pdf]](https://arxiv.org/abs/2205.10747)
 196| DreamFusion: Text-to-3D Using 2D Diffusion | ICLR | 2023 | [[pdf]](https://arxiv.org/abs/2209.14988)
 197| Sketch-Guided Text-to-Image Diffusion Models | - | 2023 | [[pdf]](https://arxiv.org/abs/2211.13752)
+198| Dataset Distillation by Matching Training Trajectories | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2203.11932)
