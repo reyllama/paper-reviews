@@ -209,3 +209,4 @@ No | Title | Venue | Year | Link
 196| DreamFusion: Text-to-3D Using 2D Diffusion | ICLR | 2023 | [[pdf]](https://arxiv.org/abs/2209.14988)
 197| Sketch-Guided Text-to-Image Diffusion Models | - | 2023 | [[pdf]](https://arxiv.org/abs/2211.13752)
 198| Dataset Distillation by Matching Training Trajectories | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2203.11932)
+199| Is synthetic data from generative models ready for image recognition? | ICLR | 2023 | [[pdf]](https://arxiv.org/abs/2210.07574)
