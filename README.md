@@ -211,3 +211,4 @@ No | Title | Venue | Year | Link
 198| Dataset Distillation by Matching Training Trajectories | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2203.11932)
 199| Is synthetic data from generative models ready for image recognition? | ICLR | 2023 | [[pdf]](https://arxiv.org/abs/2210.07574)
 200| Generative Models as a Data Source for Multiview Representation Learning | ICLR | 2022 | [[pdf]](https://arxiv.org/abs/2106.05258)
+201| Scalable Diffusion Models with Transformers | - | 2022 | [[pdf]](https://arxiv.org/abs/2212.09748)
