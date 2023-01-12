@@ -214,4 +214,4 @@ No | Title | Venue | Year | Link
 201| Scalable Diffusion Models with Transformers | - | 2022 | [[pdf]](https://arxiv.org/abs/2212.09748)
 202| CAFE: Learning to Condense Dataset by Aligning Features | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2203.01531)
 203| Learning to Learn with Generative Models of Neural Network Checkpoints | - | 2022 | [[pdf]](https://arxiv.org/abs/2209.12892)
-204| Synthesizing Informative Training Samples with GAN | NeurIPS-W | 2022 | [[pdf]](https://arxiv.org/abs/2204.07513)
+204| Synthesizing Informative Training Samples with GAN | NeurIPSW | 2022 | [[pdf]](https://arxiv.org/abs/2204.07513)
