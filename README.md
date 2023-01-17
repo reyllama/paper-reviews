@@ -215,3 +215,5 @@ No | Title | Venue | Year | Link
 202| CAFE: Learning to Condense Dataset by Aligning Features | CVPR | 2022 | [[pdf]](https://arxiv.org/abs/2203.01531)
 203| Learning to Learn with Generative Models of Neural Network Checkpoints | - | 2022 | [[pdf]](https://arxiv.org/abs/2209.12892)
 204| Synthesizing Informative Training Samples with GAN | NeurIPSW | 2022 | [[pdf]](https://arxiv.org/abs/2204.07513)
+205| Sliced Score Matching: A Scalable Approach to Density and Score Estimation | UAI | 2019 | [[pdf]](https://arxiv.org/abs/1905.07088)
+206| Generative Modeling by Estimating Gradients of the Data Distribution | NeurIPS | 2019 | [[pdf]](https://arxiv.org/abs/1907.05600)
