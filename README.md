@@ -217,3 +217,4 @@ No | Title | Venue | Year | Link
 204| Synthesizing Informative Training Samples with GAN | NeurIPSW | 2022 | [[pdf]](https://arxiv.org/abs/2204.07513)
 205| Sliced Score Matching: A Scalable Approach to Density and Score Estimation | UAI | 2019 | [[pdf]](https://arxiv.org/abs/1905.07088)
 206| Generative Modeling by Estimating Gradients of the Data Distribution | NeurIPS | 2019 | [[pdf]](https://arxiv.org/abs/1907.05600)
+207| Dataset Distillation via Factorization | NeurIPS | 2022 | [[pdf]](https://arxiv.org/abs/2210.16774)
