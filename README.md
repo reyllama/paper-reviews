@@ -219,3 +219,6 @@ No | Title | Venue | Year | Link
 206| Generative Modeling by Estimating Gradients of the Data Distribution | NeurIPS | 2019 | [[pdf]](https://arxiv.org/abs/1907.05600)
 207| Dataset Distillation via Factorization | NeurIPS | 2022 | [[pdf]](https://arxiv.org/abs/2210.16774)
 208| Visual Classification via Description from Large Language Models | ICLR | 2023 | [[pdf]](https://arxiv.org/abs/2210.07183)
+209| Training Language Models to Follow Instructions from Human Feedback | - | 2022 | [[pdf]](https://arxiv.org/abs/2203.02155)
+210| Adding Conditional Control to Text-to-Image Diffusion Models | - | 2023 | [[pdf]](https://arxiv.org/abs/2302.05543)
+211| LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention | - | 2023 | [[pdf]](https://arxiv.org/abs/2303.16199)
