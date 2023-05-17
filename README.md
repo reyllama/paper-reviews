@@ -222,3 +222,7 @@ No | Title | Venue | Year | Link
 209| Training Language Models to Follow Instructions from Human Feedback | - | 2022 | [[pdf]](https://arxiv.org/abs/2203.02155)
 210| Adding Conditional Control to Text-to-Image Diffusion Models | - | 2023 | [[pdf]](https://arxiv.org/abs/2302.05543)
 211| LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention | - | 2023 | [[pdf]](https://arxiv.org/abs/2303.16199)
+212| BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models | - | 2023 | [[pdf]](https://arxiv.org/abs/2301.12597)
+213| InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning | - | 2023 | [[pdf]](https://arxiv.org/abs/2305.06500)
+214| Diffusion Models already have a Semantic Latent Space | ICLR | 2023 | [[pdf]](https://arxiv.org/abs/2210.10960)
+215| Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation | ICLR | 2022 | [[pdf]](https://arxiv.org/abs/2108.12409)
