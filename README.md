@@ -228,3 +228,5 @@ No | Title | Venue | Year | Link
 215| Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation | ICLR | 2022 | [[pdf]](https://arxiv.org/abs/2108.12409)
 216| Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer | NeurIPS | 2021 | [[pdf]](https://arxiv.org/abs/2203.03466)
 217| Any-to-Any Generation via Composable Diffusion | - | 2023 | [[pdf]](https://arxiv.org/abs/2305.11846)
+218| Too Large; Data Reduction for Vision-Language Pre-Training | - | 2023 | [[pdf]](https://arxiv.org/abs/2305.20087)
+219| Controllable Text-to-Image Generation with GPT-4 | - | 2023 | [[pdf]](https://arxiv.org/abs/2305.18583)
