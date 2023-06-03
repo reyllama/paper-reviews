@@ -230,3 +230,8 @@ No | Title | Venue | Year | Link
 217| Any-to-Any Generation via Composable Diffusion | - | 2023 | [[pdf]](https://arxiv.org/abs/2305.11846)
 218| Too Large; Data Reduction for Vision-Language Pre-Training | - | 2023 | [[pdf]](https://arxiv.org/abs/2305.20087)
 219| Controllable Text-to-Image Generation with GPT-4 | - | 2023 | [[pdf]](https://arxiv.org/abs/2305.18583)
+220| VideoCoCa: Video-Text Modeling with Zero-Shot Transfer from Contrastive Captioners | - | 2023 | [[pdf]](https://arxiv.org/abs/2212.04979)
+221| Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning | CVPR | 2023 | [[pdf]](https://arxiv.org/abs/2302.14115)
+222| Visual Instruction Tuning | - | 2023 | [[pdf]](https://arxiv.org/abs/2304.08485)
+223| PaLM-E: An Embodied Multimodal Language Model | - | 2023 | [[pdf]](https://arxiv.org/abs/2303.03378)
+224| Flamingo: a Visual Language Model for Few-Shot Learning | NeurIPS | 2022 | [[pdf]](https://arxiv.org/abs/2204.14198)
