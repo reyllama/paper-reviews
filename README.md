@@ -1,7 +1,7 @@
 # Paper Reviews
 
 Machine Learning paper reviews for personal archiving purpose. <br>
-Refer to **[Issues]** tab.
+Refer to **[Issues]** tab. (*issues without labels are TBD*)
 <br><br>
 
 <br>
