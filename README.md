@@ -236,3 +236,4 @@ No | Title | Venue | Year | Link
 223| PaLM-E: An Embodied Multimodal Language Model | - | 2023 | [[pdf]](https://arxiv.org/abs/2303.03378)
 224| Flamingo: a Visual Language Model for Few-Shot Learning | NeurIPS | 2022 | [[pdf]](https://arxiv.org/abs/2204.14198)
 225| Chain-of-Thought Prompting Elicits Reasoning in Large Language Models | NeurIPS | 2022 | [[pdf]](https://arxiv.org/abs/2201.11903)
+226| SequenceMatch: Imitation Learning for Autoregressive Sequence Modelling with Backtracking | - | 2023 | [[pdf]](https://arxiv.org/abs/2306.05426)
