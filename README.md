@@ -238,3 +238,4 @@ No | Title | Venue | Year | Link
 225| Chain-of-Thought Prompting Elicits Reasoning in Large Language Models | NeurIPS | 2022 | [[pdf]](https://arxiv.org/abs/2201.11903)
 226| SequenceMatch: Imitation Learning for Autoregressive Sequence Modelling with Backtracking | - | 2023 | [[pdf]](https://arxiv.org/abs/2306.05426)
 227| Object-centric Learning with Cyclic Walks between Parts and Whole | NeurIPS | 2023 | [[pdf]](https://arxiv.org/abs/2302.08023)
+228| Characterizing the Impacts of Semi-supervised Learning for Weak Supervision | NeurIPS | 2023 | [[pdf]](https://dmlr.ai/assets/accepted-papers/107/CameraReady/SSL4WS_ICML_Workshop_DMLR.pdf)
