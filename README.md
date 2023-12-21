@@ -241,6 +241,6 @@ No | Title | Venue | Year | Link
 228| Characterizing the Impacts of Semi-supervised Learning for Weak Supervision | NeurIPS | 2023 | [[pdf]](https://dmlr.ai/assets/accepted-papers/107/CameraReady/SSL4WS_ICML_Workshop_DMLR.pdf)
 229| Brain Decoding: Toward Real-time Reconstruction of Visual Perception | - | 2023 | [[pdf]](https://ai.meta.com/static-resource/image-decoding)
 230| One-step Diffusion with Distribution Matching Distillation | - | 2023 | [[pdf]](https://arxiv.org/abs/2311.18828)
-231| https://arxiv.org/abs/2312.02696 | - | 2023 | [[pdf]](https://arxiv.org/abs/2312.02696)
+231| Analyzing and Improving the Training Dynamics of Diffusion Models | - | 2023 | [[pdf]](https://arxiv.org/abs/2312.02696)
 232| Common Diffusion Noise Schedules and Sample Steps are Flawed | - | 2023 | [[pdf]](https://arxiv.org/abs/2305.08891)
 233| On the Importance of Noise Scheduling for Diffusion Models | - | 2023 | [[pdf]](https://arxiv.org/abs/2301.10972)
