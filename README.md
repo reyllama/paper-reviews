@@ -244,3 +244,4 @@ No | Title | Venue | Year | Link
 231| Analyzing and Improving the Training Dynamics of Diffusion Models | - | 2023 | [[pdf]](https://arxiv.org/abs/2312.02696)
 232| Common Diffusion Noise Schedules and Sample Steps are Flawed | - | 2023 | [[pdf]](https://arxiv.org/abs/2305.08891)
 233| On the Importance of Noise Scheduling for Diffusion Models | - | 2023 | [[pdf]](https://arxiv.org/abs/2301.10972)
+234| StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis | - | 2023 | [[pdf]](https://arxiv.org/abs/2301.09515)
